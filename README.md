@@ -1,5 +1,5 @@
 1. OVERVIEW
-
+<br>
 My website is a single-page application with smooth scrolling navigation. I focused on a clean and sophisticated aesthetic, emphasizing readability and a professional presentation.
 
 Key Sections:
@@ -13,9 +13,9 @@ Skills: This section highlights my technical skills and my core competencies.
 Resume (My Journey): I present my educational background and key development seminars I've attended.
 
 Contact: This section provides my contact information.
-
+<br>
 2. TECHNOLOGIES I USED
-
+<br>
 HTML5: I used this for the structure and content of my website.
 
 CSS3: This was for styling, layout, responsiveness, and animations.
@@ -39,9 +39,9 @@ Active navigation link highlighting.
 "Back to Top" button functionality.
 
 Intersection Observer for scroll-based animations.
-
+<br>
 3. FILE STRUCTURE
-
+<br>
 index.html: This is the main HTML file containing my website's structure.
 
 style.css: This CSS file contains all the styling rules I created.
