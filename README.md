@@ -1,19 +1,19 @@
-1. Overview
+OVERVIEW
 My website is a single-page application with smooth scrolling navigation. I focused on a clean and sophisticated aesthetic, emphasizing readability and a professional presentation.
 
 Key Sections:
 
-Home (Hero): This is a welcoming section where I feature my professional photo and provide a brief introduction to my focus as a Software Engineer.
+Home (Hero): This is a welcoming section where I feature my professional photo and provide a brief introduction.
 
-About: Here, I detail my background, including my age, nationality (Kenyan), and my drive towards AI and Blockchain. This section is framed by my theme: "Curated Excellence: My Journey & Potential."
+About: Here, I detail my background and my drive towards AI and Blockchain.
 
-Skills: This section highlights my technical skills (C, Python, HTML, CSS, JavaScript, and my ongoing learning in AI/Blockchain) and my core competencies (such as problem-solving and innovation).
+Skills: This section highlights my technical skills and my core competencies.
 
-Resume (My Journey): I present my educational background and key development seminars I've attended in a timeline format.
+Resume (My Journey): I present my educational background and key development seminars I've attended.
 
-Contact: This section provides my contact information (email and phone).
+Contact: This section provides my contact information.
 
-2. Technologies I Used
+TECHNOLOGIES I USED
 HTML5: I used this for the structure and content of my website.
 
 CSS3: This was for styling, layout, responsiveness, and animations.
@@ -38,7 +38,7 @@ Active navigation link highlighting.
 
 Intersection Observer for scroll-based animations.
 
-3. File Structure
+FILE STRUCTURE
 index.html: This is the main HTML file containing my website's structure.
 
 style.css: This CSS file contains all the styling rules I created.
