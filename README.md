@@ -13,8 +13,11 @@ Skills: This section highlights my technical skills and my core competencies.
 Resume (My Journey): I present my educational background and key development seminars I've attended.
 
 Contact: This section provides my contact information.
+
+<br>
 <br>
 2. TECHNOLOGIES I USED
+<br>
 <br>
 HTML5: I used this for the structure and content of my website.
 
@@ -40,7 +43,9 @@ Active navigation link highlighting.
 
 Intersection Observer for scroll-based animations.
 <br>
+<br>
 3. FILE STRUCTURE
+<br>
 <br>
 index.html: This is the main HTML file containing my website's structure.
 
